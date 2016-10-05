@@ -1,0 +1,12 @@
+body{
+  background: orange;
+}
+
+h1, h2{
+  font-family: 'Kaushan Script', cursive;
+}
+
+.container{
+  text-align: center;
+  margin-top: 10em;
+}
